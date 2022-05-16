@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861189637116",
+    "project_id": "find-home-e7fa5",
+    "storage_bucket": "find-home-e7fa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861189637116:android:8b7cca0f82a15ca5aa2879",
+        "android_client_info": {
+          "package_name": "com.AltShift.find_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861189637116-mv1goln0vnvutmjtv4ah3ephqp0dasep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmRXNIVuVTUH4ao97C-6wUalSlm0fgQsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861189637116-mv1goln0vnvutmjtv4ah3ephqp0dasep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
